@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-socketio
+python-dotenv
+opencv-python
+pytesseract
+google-api-python-client
+-e .
